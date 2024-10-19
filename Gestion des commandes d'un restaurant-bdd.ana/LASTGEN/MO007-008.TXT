@@ -1,0 +1,8 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Client		TAR	137	nouvelle taille enregistrement : 137
+Client	payement	RUB-		la rubrique payement est supprimée
+Commande		TAR	82	nouvelle taille enregistrement : 82
+Commande	les_plats_selectionné	RUB+		les_plats_selectionné est une nouvelle rubrique
+Commande	Total_Solde	RUB+		Total_Solde est une nouvelle rubrique
+Commande	Num_tlf	RUB+		Num_tlf est une nouvelle clé
+Contrainte_Commande_Client		NWL	Client (Num_tlf) et Commande (Num_tlf)	Nouvelle liaison entre les fichiers Client (Num_tlf) et Commande (Num_tlf)

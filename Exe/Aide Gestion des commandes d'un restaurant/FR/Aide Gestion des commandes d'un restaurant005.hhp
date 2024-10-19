@@ -1,0 +1,33 @@
+[OPTIONS]
+Compiled File=Aide Gestion des commandes d'un restaurant005.chm
+Title=
+Contents File=Aide Gestion des commandes d'un restaurant.hhc
+Index File=Aide Gestion des commandes d'un restaurant.hhk
+Error Log File=Aide Gestion des commandes d'un restaurant005.err
+Display Compile Progress=Yes
+Display Compile Notes=Yes
+Full-Text Search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced Decompilation=No
+Binary TOC=No
+Flat=Yes
+Default Topic=Fenêtre_FEN_Nos_services.htm
+Default Window=main
+[WINDOWS]
+main="","Aide Gestion des commandes d'un restaurant.hhc","Aide Gestion des commandes d'un restaurant.hhk","","Fenêtre_FEN_Nos_services.htm","","","","",0x2420,,0x3846,[34,10,1034,710],,,,0x0,,,0
+
+
+[FILES]
+LivreGestion des commandes d'un restaurant.htm
+DescFen.htm
+Fenêtre_FEN_Nos_services.htm
+Fenêtre_FEN_BIENVENUE.htm
+Fenêtre_FEN_Information_Client.htm
+Fenêtre_FEN_conf.htm
+Fenêtre_FEN_login.htm
+Fenêtre_FEN_resto.htm
+ImageFondPartieVar.jpg
+
+[MAP]
+#include mapid.h

@@ -1,0 +1,13 @@
+#ZR_TDM_HTE {min-height:25px;}
+td#ZR_TDM_HTE {height:25px;}
+td#ZR_TDM_HTE>table {width:177px;}
+td#ZR_TDM_HTE {width:auto;min-width:auto;}
+.CELL_SANSNOM1 {height:100%;}
+.SAI_RECHERCHE {width:334px;height:26px;}
+#page,.pos1 {height:100%;display:block;}
+.pos2,.pos4 {float:left;margin:4px 0 0;display:inline;min-height:26px;height:auto !important;height:26px;}
+.pos3 {min-width:334px;width:auto !important;width:334px;}
+.pos5 {min-width:26px;width:auto !important;width:26px;}
+.pos6 {float:left;margin:4px 0 0 7px;display:inline;}
+.pos7,.pos10,.pos12 {min-width:177px;width:auto !important;width:177px;}
+.pos8,.pos9,.pos11 {float:left;display:inline;}

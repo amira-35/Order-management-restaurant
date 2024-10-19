@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Nos_service		NFI		nouveau fichier
+famille		NFI		nouveau fichier
+Contrainte_famille_Nos_service		NWL	famille (IDfamille) et Nos_service (IDfamille)	Nouvelle liaison entre les fichiers famille (IDfamille) et Nos_service (IDfamille)

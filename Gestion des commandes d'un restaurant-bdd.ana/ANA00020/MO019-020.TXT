@@ -1,0 +1,9 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Client		TAR	599	nouvelle taille enregistrement : 599
+Client	Civilité	RUB-		la rubrique Civilité est supprimée
+Client	Prénom2	RUB-		la rubrique Prénom2 est supprimée
+Client	DateNaissance	RUB-		la rubrique DateNaissance est supprimée
+Client	Pays	RUB-		la rubrique Pays est supprimée
+Client	Téléphone	RUB-		la rubrique Téléphone est supprimée
+Client	Fax	RUB-		la rubrique Fax est supprimée
+Client	RCS	RUB-		la rubrique RCS est supprimée

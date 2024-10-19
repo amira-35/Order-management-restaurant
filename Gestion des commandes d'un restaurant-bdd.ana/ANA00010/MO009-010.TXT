@@ -1,0 +1,7 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+consommation		NFI		nouveau fichier
+Nos_service_consommation		NFI		nouveau fichier
+famille		FIC-	famille	Fichier supprimé famille
+Contrainte_Nos_service_consommation		NWL	Nos_service (IDNos_service) et Nos_service_consommation (IDNos_service)	Nouvelle liaison entre les fichiers Nos_service (IDNos_service) et Nos_service_consommation (IDNos_service)
+Contrainte_consommation_Nos_service		NWL	consommation (IDconsommation) et Nos_service_consommation (IDconsommation)	Nouvelle liaison entre les fichiers consommation (IDconsommation) et Nos_service_consommation (IDconsommation)
+Contrainte_famille_Nos_service		DEL	famille (IDfamille) et Nos_service (IDfamille)	Liaison supprimée entre les fichiers famille (IDfamille) et Nos_service (IDfamille)

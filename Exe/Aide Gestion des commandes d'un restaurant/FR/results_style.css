@@ -1,0 +1,7 @@
+#ZR_RESULTAT_HTE {min-height:67px;}
+td#ZR_RESULTAT_HTE {height:67px;}
+td#ZR_RESULTAT_HTE>table {width:757px;}
+td#ZR_RESULTAT_HTE {width:auto;min-width:auto;}
+#page,.pos1 {height:100%;display:block;}
+.pos2 {clear:left;float:left;margin:0 0 0 5px;display:inline;min-height:28px;height:auto !important;height:28px;}
+.pos3 {min-width:747px;width:auto !important;width:747px;}

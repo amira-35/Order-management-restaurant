@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<BODY>
+<UL>
+<li><object type="text/sitemap">
+<param name="Name" value="Gestion des commandes d'un restaurant">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Description des fenêtres">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Nos_services">
+<param name="Local" value="Fenêtre_FEN_Nos_services.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_BIENVENUE">
+<param name="Local" value="Fenêtre_FEN_BIENVENUE.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Information_Client">
+<param name="Local" value="Fenêtre_FEN_Information_Client.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_conf">
+<param name="Local" value="Fenêtre_FEN_conf.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_login">
+<param name="Local" value="Fenêtre_FEN_login.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_resto">
+<param name="Local" value="Fenêtre_FEN_resto.htm">
+</object>
+</ul>
+</ul>
+</UL>
+</BODY>
+</HTML>

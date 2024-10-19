@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+consommation		TAR	36	nouvelle taille enregistrement : 36
+consommation	IDClient	RUB+		IDClient est une nouvelle clé
+Contrainte_Client_consommation		NWL	Client (IDClient) et consommation (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et consommation (IDClient)

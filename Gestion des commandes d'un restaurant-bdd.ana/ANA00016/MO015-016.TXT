@@ -1,0 +1,6 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+consommation		TAR	41	nouvelle taille enregistrement : 41
+consommation		IDE-*		fichier sans identifiant
+consommation	IDconsommation	CNW	Entier sur 4 octets$Identifiant automatique (8 octets)	la rubrique IDconsommation a pour nouveau type Entier sur 4 octets
+Nos_service_consommation		TAR	35	nouvelle taille enregistrement : 35
+Nos_service_consommation	IDconsommation	CNW	Entier sur 4 octets$Entier sur 8 octets	la rubrique IDconsommation a pour nouveau type Entier sur 4 octets

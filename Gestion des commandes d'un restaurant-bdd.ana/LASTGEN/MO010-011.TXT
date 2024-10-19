@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Client		TAR	148	nouvelle taille enregistrement : 148
+Client	idclient	RUB+		idclient est une nouvelle clé
+Contrainte_Commande_Client		DEL	Client (Num_tlf) et Commande (Num_tlf)	Liaison supprimée entre les fichiers Client (Num_tlf) et Commande (Num_tlf)

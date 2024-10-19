@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Client		TAR	138	nouvelle taille enregistrement : 138
+Client	Payement	CNW	Entier non signé sur 1 octet$Monétaire	la rubrique Payement a pour nouveau type Entier non signé sur 1 octet

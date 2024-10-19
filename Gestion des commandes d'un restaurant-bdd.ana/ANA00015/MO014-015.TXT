@@ -1,0 +1,4 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Nos_service_consommation		TAR	39	nouvelle taille enregistrement : 39
+Nos_service_consommation	nbr	RUB+		nbr est une nouvelle rubrique
+Nos_service_consommation	prix_unit	RUB+		prix_unit est une nouvelle rubrique

@@ -1,0 +1,3 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Client		TAR	147	nouvelle taille enregistrement : 147
+Client	Payement	CNW	Monétaire$Entier sur 4 octets	la rubrique Payement a pour nouveau type Monétaire
